@@ -2,4 +2,4 @@
 This project features a website that links to different recipes. 
 
 Skills that I will have demonstrated are writing an html document,
-using hrefs and elements that will put text on the page and stuff.
+using hrefs and elements that will put text on the page and stuff. Also adding changes to the staging area, sending commits and writing commit messages.
