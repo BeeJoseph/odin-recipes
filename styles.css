@@ -1,27 +1,32 @@
+body {
+    font-family:
+}
+
 h1 {
-    text-align: center;
+    display: inline-block;
+    border-bottom: solid;
+    margin-left: 780px;
 }
 
 
 .mac {
     background-color: yellow;
-    margin-top: 20px;
-    border: solid;
+    border: 7px solid orange;
 }
 
 .brownies {
-    display: inline-block;
     background-color: burlywood;
-    margin-top: 200px;
-    border: solid;
+    border: 7px solid brown;
 }
 
 .pate {
     background-color: sandybrown;
+    border: 7px solid tan
 }
 
 .mac,
 .brownies,
 .pate {
+    display: inline-block;
     padding: 10px;
 }
