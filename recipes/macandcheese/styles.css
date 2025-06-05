@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: tan;
+    background-color: rgb(255, 205, 42);
 }
 
 h1 {
@@ -15,19 +15,21 @@ p {
 img {
     display: block;
     margin: auto;
-    border: solid 7px brown
+    border: solid 10px rgb(255, 153, 0);
 }
 
 ul, ol {
-    border: solid 7px brown;
+    border: solid 7px rgb(255, 153, 0);
     padding: 25px;
-    background-color: rgb(105, 44, 3);
-    color: aliceblue;
+    background-color: rgb(255, 238, 0);
+    color: rgb(170, 69, 29);
+    font-family: Helvetica, sans-serif;
 }
 
 ul, ol {
     display: inline-block;
     margin-left: 15px;
+    margin-top: -7px;
 }
 
 h3 {
