@@ -21,7 +21,8 @@ img {
 ul, ol {
     border: solid 7px brown;
     padding: 25px;
-    background-color: burlywood;
+    background-color: rgb(105, 44, 3);
+    color: aliceblue;
 }
 
 ul, ol {
