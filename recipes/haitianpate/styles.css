@@ -1,11 +1,16 @@
 body {
     font-family: sans-serif;
-    background-color: tan;
+    background-color: rgb(224, 162, 80);
 }
 
 h1 {
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
+}
+
+.ingredients {
+    font-size: 30px;
+    text-decoration: underline;
 }
 
 p {
@@ -15,21 +20,22 @@ p {
 img {
     display: block;
     margin: auto;
-    border: solid 7px brown
+    border: solid 10px rgba(211, 111, 17, 0.89)
 }
 
 ul, ol {
-    border: solid 7px brown;
+    border: solid 7px rgba(211, 111, 17, 0.89);
     padding: 25px;
-    background-color: rgb(105, 44, 3);
-    color: aliceblue;
+    background-color: rgb(223, 144, 91);
 }
 
 ul, ol {
     display: inline-block;
     margin-left: 15px;
+    margin-top: -7px;
 }
 
-h3 {
-    text-decoration: underline; 
+
+p {
+    margin-bottom: 3em;
 }
